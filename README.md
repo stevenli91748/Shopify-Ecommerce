@@ -10,6 +10,7 @@
 * [Shopify Dropshipping 实战教学挑战系列 - 14天内从 0 到每天 $500 美元？🤩2020年最新技巧揭秘 - 手把手教你做一个年入百万的跨境电商一件代发](https://www.youtube.com/watch?v=GizuiCy3SPs&list=PLfUBKz8xg22BGDikv0RdWH4VSjiaB_5d1)
 * [Shopify Dropshipping怎样在速卖通下单 速卖通付款 Shopify独立站 Dropshipping教程](https://www.youtube.com/watch?v=cIPQXTxSoCI)
 
+## 选商品
 
 ## 建站
 * [最新Shopify网站建站 | 如何用Shopify制作大牌电商网站](https://www.youtube.com/watch?v=eTpJSDj2pAs)
