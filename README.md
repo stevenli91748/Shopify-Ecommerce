@@ -24,5 +24,9 @@
 * [Shopify 必备免费插件 - 2020，完美增强你的店铺，助你销量增长。梧桐小讲堂](https://www.youtube.com/watch?v=q11OQROgguo&list=PLTjPjHa6Nol1LHP4OakcaE3QlN5PnSG08&index=5)
 * [细数50款一直以来市面上最常用的Shopify插件 2020 | Shopify营销类插件 购物车挽回插件 POD插件](https://www.youtube.com/watch?v=aCOFrFqFCPc)
 
+## 收付款方法
+* [美国stripe从零注册验证教程，如何申请美国EIN？如果无限开信用卡？如何充值账户？](https://www.youtube.com/watch?v=TQKIjscaKuI)
+
+
 # 参考
 
