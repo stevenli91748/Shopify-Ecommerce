@@ -1,8 +1,8 @@
 
 # 博客
 
-[外贸麦克 shopify教程系列](https://www.waimaomike.com/best-shopify-apps-2021.html)|
----|
+[外贸麦克 shopify教程系列](https://www.waimaomike.com/best-shopify-apps-2021.html)|[Star Yo电商运营教程---电商创业，dropshiping](https://www.youtube.com/c/StarYo)|[如何在七個月內做到70w萬美金銷售額的  海外電商  在2022年跨境電商還能做嗎?](https://www.youtube.com/watch?v=bObwG2WidR8)|
+---|---|---|
 
 # 视频
 
