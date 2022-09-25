@@ -26,6 +26,8 @@
 * [如何把淘宝 1688 tmall天猫 Amazon亚马逊产品导入到你的Shopify Woocommerce店铺 Dropshipping教程 2021](https://www.youtube.com/watch?v=Ony8g71HCQ4&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP&index=11)
 * [2020 Shopify独立站选品 3种免费寻找爆款的方法 | 如何寻找爆款产品](https://www.youtube.com/watch?v=I9JsbmJqID4&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP)
 * [最简单的Shopify独立站选品方法 Shopify Dropshipping选品 Aliexpress速卖通选品 2020](https://www.youtube.com/watch?v=be3c-85LQyw&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP&index=4)
+* [国外卖家都卖什么爆款？差异化选品流程大公开！---如何通过产品的faceboo广告，寻找出热卖款](https://www.youtube.com/watch?v=vOKNjn3-IQc)
+
 
 ## 货源
 * [除了1688，这些货源网站的 拿货价格更低！值得收藏](https://www.youtube.com/watch?v=tJV6T5VKqfE)
