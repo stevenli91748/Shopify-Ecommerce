@@ -7,8 +7,8 @@
 [丹尼尔Daniel](https://www.youtube.com/c/%E4%B8%B9%E5%B0%BC%E5%B0%94Daniel/videos)|[梧桐小讲堂](https://www.youtube.com/c/%E6%A2%A7%E6%A1%90%E5%B0%8F%E8%AE%B2%E5%A0%82)|[跨境老狗](https://www.youtube.com/channel/UCR4ITL1X3zi9V5o_U57-45g/videos)|[LEEPSMART](https://www.youtube.com/c/LEEPSMART/videos)|[DaddyEarn奶爸套利](https://www.youtube.com/c/DaddyEarn%E5%A5%B6%E7%88%B8%E5%A5%97%E5%88%A9/videos)|[小杰聊电商](https://www.youtube.com/channel/UCouDXOCkhljDoCi1_yrRF3Q)|
 ---|---|---|---|---|---|
 
-[TikTok電商學長Ethan](https://www.youtube.com/c/TikTok%E9%9B%BB%E5%95%86%E5%AD%B8%E9%95%B7Ethan/videos)|[外贸麦克](https://www.youtube.com/channel/UCOy29uWmed6CePBHcCokk7g)|[Carsen Chong---Shopee速成班](https://www.youtube.com/c/CarsenChong%E5%B0%8F%E8%83%96fb%E8%90%A5%E9%94%80%E4%B8%93%E5%AE%B6)|
----|---|---|
+[TikTok電商學長Ethan](https://www.youtube.com/c/TikTok%E9%9B%BB%E5%95%86%E5%AD%B8%E9%95%B7Ethan/videos)|[外贸麦克](https://www.youtube.com/channel/UCOy29uWmed6CePBHcCokk7g)|[Carsen Chong---Shopee速成班](https://www.youtube.com/c/CarsenChong%E5%B0%8F%E8%83%96fb%E8%90%A5%E9%94%80%E4%B8%93%E5%AE%B6)|[Yi Kim](https://www.youtube.com/channel/UCKYcMcWGM9jfbVfDpneMmdw/videos)|
+---|---|---|---|
 
 # 视频
 
@@ -19,6 +19,8 @@
 * [如何处理Dropshipping退换货或退款等售后问题 3Tips帮你提高店铺复购率](https://www.youtube.com/watch?v=PdeiA1fa0aA&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP&index=7)
 * [8款免费但是超级实用的Dropshipping谷歌浏览器插件2020 强烈推荐](https://www.youtube.com/watch?v=FkwICQwyl4g&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP&index=9)
 * [6款Shopify Dropshipping插件 除了Oberlo还有哪些一键采集的Dropshipping插件 如何采集亚马逊 Ebay 淘宝 阿里巴巴的产品到你的dropshipping店铺](https://www.youtube.com/watch?v=fRAmIl4KkPo)
+* [什么是独立站SHOPIFY DROPSHIP，该如何选择产品？](https://www.youtube.com/watch?v=2COBH3dcPaU)
+
 
 ## 选商品
 * [如何把淘宝 1688 tmall天猫 Amazon亚马逊产品导入到你的Shopify Woocommerce店铺 Dropshipping教程 2021](https://www.youtube.com/watch?v=Ony8g71HCQ4&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP&index=11)
