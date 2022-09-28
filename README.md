@@ -31,7 +31,7 @@
 
 ## 货源
 * [除了1688，这些货源网站的 拿货价格更低！值得收藏](https://www.youtube.com/watch?v=tJV6T5VKqfE)
-
+* []()
 
 ## 建站
 * [最新Shopify网站建站 | 如何用Shopify制作大牌电商网站](https://www.youtube.com/watch?v=eTpJSDj2pAs)
@@ -45,3 +45,4 @@
 
 # 参考
 * [Oberlo下架，一件代发哪一家比较好？](https://zhuanlan.zhihu.com/p/44393056)
+* [独立站网站，你们都是通过什么渠道引流的呢？](https://www.zhihu.com/question/472920185/answer/2574433771)
