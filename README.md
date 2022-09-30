@@ -7,8 +7,8 @@
 [丹尼尔Daniel](https://www.youtube.com/c/%E4%B8%B9%E5%B0%BC%E5%B0%94Daniel/videos)|[梧桐小讲堂](https://www.youtube.com/c/%E6%A2%A7%E6%A1%90%E5%B0%8F%E8%AE%B2%E5%A0%82)|[跨境老狗](https://www.youtube.com/channel/UCR4ITL1X3zi9V5o_U57-45g/videos)|[LEEPSMART](https://www.youtube.com/c/LEEPSMART/videos)|[DaddyEarn奶爸套利](https://www.youtube.com/c/DaddyEarn%E5%A5%B6%E7%88%B8%E5%A5%97%E5%88%A9/videos)|[小杰聊电商](https://www.youtube.com/channel/UCouDXOCkhljDoCi1_yrRF3Q)|
 ---|---|---|---|---|---|
 
-[TikTok電商學長Ethan](https://www.youtube.com/c/TikTok%E9%9B%BB%E5%95%86%E5%AD%B8%E9%95%B7Ethan/videos)|[外贸麦克](https://www.youtube.com/channel/UCOy29uWmed6CePBHcCokk7g)|[Carsen Chong---Shopee速成班](https://www.youtube.com/c/CarsenChong%E5%B0%8F%E8%83%96fb%E8%90%A5%E9%94%80%E4%B8%93%E5%AE%B6)|[Yi Kim](https://www.youtube.com/channel/UCKYcMcWGM9jfbVfDpneMmdw/videos)|
----|---|---|---|
+[TikTok電商學長Ethan](https://www.youtube.com/c/TikTok%E9%9B%BB%E5%95%86%E5%AD%B8%E9%95%B7Ethan/videos)|[外贸麦克](https://www.youtube.com/channel/UCOy29uWmed6CePBHcCokk7g)|[Carsen Chong---Shopee速成班](https://www.youtube.com/c/CarsenChong%E5%B0%8F%E8%83%96fb%E8%90%A5%E9%94%80%E4%B8%93%E5%AE%B6)|[Yi Kim](https://www.youtube.com/channel/UCKYcMcWGM9jfbVfDpneMmdw/videos)|[tong jeff---Shopify教程](https://www.youtube.com/channel/UCIePq0hElXS2ME5w_QhpL0w/videos)|
+---|---|---|---|---|
 
 # 视频
 
