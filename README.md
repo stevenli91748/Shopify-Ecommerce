@@ -67,3 +67,4 @@
 * [独立站网站，你们都是通过什么渠道引流的呢？](https://www.zhihu.com/question/472920185/answer/2574433771)
 * [一款独立站的秘密软件，居然可以准确抓取竞争对手的销售数据！](https://zhuanlan.zhihu.com/p/523216301)
 * [独立站蓝海选品策略（Shopify该如何选品）](https://zhuanlan.zhihu.com/p/512968451)
+* [Themes for shopify](https://themeforest.net/category/ecommerce/shopify)
