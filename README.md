@@ -25,9 +25,10 @@
 
 
 * 1 选商品步骤
-  * 选商品的三个关键点
-    * **产品是否已经被测试过了**
-    *   
+  * 选商品的三个关键点---只有满足以下三点的产品才能花钱测试
+    * **第一点：产品是否已经被测试过了---就是是否已经有别的用户已经做过广告（instagram或 facebook），并有好的浏览量**
+    * **第二点：产品的目标用户是否广泛---避免小众产品**  
+    * **第三点：产品的利润一定要非常高！---出售价一定要在成本价三倍以上**
   * [EcomHunt - Shopify独立站爆款选品工具](https://www.youtube.com/watch?v=06AZa_IbHDc)
   * [如何把淘宝 1688 tmall天猫 Amazon亚马逊产品导入到你的Shopify Woocommerce店铺 Dropshipping教程 2021](https://www.youtube.com/watch?v=Ony8g71HCQ4&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP&index=11)
   * [2020 Shopify独立站选品 3种免费寻找爆款的方法 | 如何寻找爆款产品](https://www.youtube.com/watch?v=I9JsbmJqID4&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP)
