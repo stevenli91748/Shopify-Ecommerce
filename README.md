@@ -23,6 +23,7 @@
 
 
 ## 选商品
+* [EcomHunt - Shopify独立站爆款选品工具](https://www.youtube.com/watch?v=06AZa_IbHDc)
 * [如何把淘宝 1688 tmall天猫 Amazon亚马逊产品导入到你的Shopify Woocommerce店铺 Dropshipping教程 2021](https://www.youtube.com/watch?v=Ony8g71HCQ4&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP&index=11)
 * [2020 Shopify独立站选品 3种免费寻找爆款的方法 | 如何寻找爆款产品](https://www.youtube.com/watch?v=I9JsbmJqID4&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP)
 * [最简单的Shopify独立站选品方法 Shopify Dropshipping选品 Aliexpress速卖通选品 2020](https://www.youtube.com/watch?v=be3c-85LQyw&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP&index=4)
