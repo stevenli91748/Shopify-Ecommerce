@@ -59,6 +59,9 @@
     * AI人工客服
       * [Chatbot](https://www.chatbot.com/)  
       * [Chatfuel----用在instagram 或 facebook上](https://chatfuel.com/)
+      * [Tidio---可在Shopify or Wordpress上使用](https://www.tidio.com/)
+      * [Zoho---可在Shopify or Wordpress上使用](https://www.zoho.com/)
+      * [Intercom---可在Shopify or Wordpress上使用](https://www.intercom.com/drlp/business-growth-sb?utm_source=google&utm_medium=sem&utm_campaign=16397789193&utm_term=intercom&utm_ad_collection=130765731341&_bt=598537376628&_bg=130765731341&utm_ad=598537376628&offer=sb-growth-trial&utm_campaign_name=go_b_pm_acq_core_demo_kw_pros_core-e_alls_alld_namer_us_en&utm_ad_collection_name=&utm_ad_name=sb-growth-trial_rsa_23q2&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1175wLzsJMm5457pDzbGlDi07WPj95ROm1_Q_aRN1Soww3ohiV1e-eRkaAu1-EALw_wcB&gclsrc=aw.ds)
 # 参考
 * [Oberlo下架，一件代发哪一家比较好？](https://zhuanlan.zhihu.com/p/44393056)
 * [独立站网站，你们都是通过什么渠道引流的呢？](https://www.zhihu.com/question/472920185/answer/2574433771)
