@@ -37,7 +37,7 @@
   * 1.1 货源
     * [除了1688，这些货源网站的 拿货价格更低！值得收藏](https://www.youtube.com/watch?v=tJV6T5VKqfE)
     * []()
-* 2 建站步骤
+* 2 建站步骤---模仿本行业的龙头网站，再加上自己的特色上去
   * [最新Shopify网站建站 | 如何用Shopify制作大牌电商网站](https://www.youtube.com/watch?v=eTpJSDj2pAs)
   * [超详尽版如何搭建一个Shopify跨境独立站，2022年最新Shopify建站中文教程，零基础新手教学](https://www.youtube.com/watch?v=wtQNNbe1z-g&t=870s)
   * [Shopify 必备免费插件 - 2020，完美增强你的店铺，助你销量增长。梧桐小讲堂](https://www.youtube.com/watch?v=q11OQROgguo&list=PLTjPjHa6Nol1LHP4OakcaE3QlN5PnSG08&index=5)
@@ -45,6 +45,8 @@
   * 2.2 收付款方法
     * [美国stripe从零注册验证教程，如何申请美国EIN？如果无限开信用卡？如何充值账户？](https://www.youtube.com/watch?v=TQKIjscaKuI)
 * 3 引流步骤
+  * Instagram广告
+  * Facebook广告 
 * 4 客服步骤
 * 5 tools
   * [similarweb---Traffic Analysis](https://www.similarweb.com/corp/lps/similarweb-traffic-analysis/?utm_medium=ppc&utm_source=adwords&utm_campaign=brand_na_na_na_na_brand_usaca_Oct_21&utm_id=289647072&utm_content=397948175168&utm_term=similarweb&utm_network=g&utm_group=23062293792&utm_placement=&utm_matchtype=e&utm_adposition=&utm_id=289647072&utm_content=397948175168&utm_term=similarweb&utm_network=g&utm_group=23062293792&utm_placement=&utm_matchtype=e&utm_adposition=&affiliate_id=similarweb&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177jQTsgwTYx0Y9XQK2AQDNdSC0tCORvGltTVLH2hDF0roaLwEbPDnYaAvo2EALw_wcB)
