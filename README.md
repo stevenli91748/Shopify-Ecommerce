@@ -4,6 +4,9 @@
 [进击的电商](https://www.youtube.com/channel/UCFsap4oyI_kTM9DkZ3gkxeQ)|[【Shopify 電商教學】我是如何在七個月內做到70w萬美金銷售額的 ](https://www.youtube.com/watch?v=bObwG2WidR8)|[大力Dali](https://www.youtube.com/channel/UCi_9a7QLXHUEcyrxP2Uva0A)|[Star Yo电商运营教程](https://www.youtube.com/c/StarYo)|
 ---|---|---|---|
 
+[UcanB2C---专注Shopify实战](https://www.ucanb2c.com/shopify/)|
+---|
+
 [丹尼尔Daniel](https://www.youtube.com/c/%E4%B8%B9%E5%B0%BC%E5%B0%94Daniel/videos)|[梧桐小讲堂](https://www.youtube.com/c/%E6%A2%A7%E6%A1%90%E5%B0%8F%E8%AE%B2%E5%A0%82)|[跨境老狗](https://www.youtube.com/channel/UCR4ITL1X3zi9V5o_U57-45g/videos)|[LEEPSMART](https://www.youtube.com/c/LEEPSMART/videos)|[DaddyEarn奶爸套利](https://www.youtube.com/c/DaddyEarn%E5%A5%B6%E7%88%B8%E5%A5%97%E5%88%A9/videos)|[小杰聊电商](https://www.youtube.com/channel/UCouDXOCkhljDoCi1_yrRF3Q)|
 ---|---|---|---|---|---|
 
