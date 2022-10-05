@@ -50,6 +50,9 @@
 * 3 引流步骤
   * Instagram广告---有一个好的产品视频广告和网站，比别的付费引流更有效
   * Facebook广告 ---有一个好的产品视频广告和网站，比别的付费引流更有效
+    * [FaceBook 推广教程 -《Facebook 完全手册》](https://www.ucanb2c.com/facebook/) 
+  * Google广告
+    * [Google ADS 教程 – 《Google 完全手册》](https://www.ucanb2c.com/google/) 
 * 4 客服步骤
   * [carro (oblero插件的替代) ](https://www.getcarro.com/)
   * 中转商(当你每天的订单量到几十到100单时) 
