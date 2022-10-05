@@ -4,8 +4,8 @@
 [进击的电商](https://www.youtube.com/channel/UCFsap4oyI_kTM9DkZ3gkxeQ)|[【Shopify 電商教學】我是如何在七個月內做到70w萬美金銷售額的 ](https://www.youtube.com/watch?v=bObwG2WidR8)|[大力Dali](https://www.youtube.com/channel/UCi_9a7QLXHUEcyrxP2Uva0A)|[Star Yo电商运营教程](https://www.youtube.com/c/StarYo)|
 ---|---|---|---|
 
-[UcanB2C---专注Shopify实战](https://www.ucanb2c.com/shopify/)|
----|
+[UcanB2C---专注Shopify实战](https://www.ucanb2c.com/shopify/)|[揭秘月入3万的虾皮卖家，每天的工作流程！](https://www.youtube.com/watch?v=ACnsCHp8DrY)|
+---|---|
 
 [丹尼尔Daniel](https://www.youtube.com/c/%E4%B8%B9%E5%B0%BC%E5%B0%94Daniel/videos)|[梧桐小讲堂](https://www.youtube.com/c/%E6%A2%A7%E6%A1%90%E5%B0%8F%E8%AE%B2%E5%A0%82)|[跨境老狗](https://www.youtube.com/channel/UCR4ITL1X3zi9V5o_U57-45g/videos)|[LEEPSMART](https://www.youtube.com/c/LEEPSMART/videos)|[DaddyEarn奶爸套利](https://www.youtube.com/c/DaddyEarn%E5%A5%B6%E7%88%B8%E5%A5%97%E5%88%A9/videos)|[小杰聊电商](https://www.youtube.com/channel/UCouDXOCkhljDoCi1_yrRF3Q)|
 ---|---|---|---|---|---|
@@ -65,9 +65,11 @@
       * [Tidio---可在Shopify or Wordpress上使用](https://www.tidio.com/)
       * [Zoho---可在Shopify or Wordpress上使用](https://www.zoho.com/)
       * [Intercom---可在Shopify or Wordpress上使用](https://www.intercom.com/drlp/business-growth-sb?utm_source=google&utm_medium=sem&utm_campaign=16397789193&utm_term=intercom&utm_ad_collection=130765731341&_bt=598537376628&_bg=130765731341&utm_ad=598537376628&offer=sb-growth-trial&utm_campaign_name=go_b_pm_acq_core_demo_kw_pros_core-e_alls_alld_namer_us_en&utm_ad_collection_name=&utm_ad_name=sb-growth-trial_rsa_23q2&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1175wLzsJMm5457pDzbGlDi07WPj95ROm1_Q_aRN1Soww3ohiV1e-eRkaAu1-EALw_wcB&gclsrc=aw.ds)
+
 # 参考
 * [Oberlo下架，一件代发哪一家比较好？](https://zhuanlan.zhihu.com/p/44393056)
 * [独立站网站，你们都是通过什么渠道引流的呢？](https://www.zhihu.com/question/472920185/answer/2574433771)
 * [一款独立站的秘密软件，居然可以准确抓取竞争对手的销售数据！](https://zhuanlan.zhihu.com/p/523216301)
 * [独立站蓝海选品策略（Shopify该如何选品）](https://zhuanlan.zhihu.com/p/512968451)
 * [Themes for shopify](https://themeforest.net/search/aaraa)
+* [揭秘月入3万的虾皮卖家，每天的工作流程！](https://www.youtube.com/watch?v=ACnsCHp8DrY)
