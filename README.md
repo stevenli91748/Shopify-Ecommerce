@@ -13,6 +13,13 @@
 [TikTok電商學長Ethan](https://www.youtube.com/c/TikTok%E9%9B%BB%E5%95%86%E5%AD%B8%E9%95%B7Ethan/videos)|[外贸麦克](https://www.youtube.com/channel/UCOy29uWmed6CePBHcCokk7g)|[Carsen Chong---Shopee速成班](https://www.youtube.com/c/CarsenChong%E5%B0%8F%E8%83%96fb%E8%90%A5%E9%94%80%E4%B8%93%E5%AE%B6)|[Yi Kim](https://www.youtube.com/channel/UCKYcMcWGM9jfbVfDpneMmdw/videos)|[tong jeff---Shopify教程](https://www.youtube.com/channel/UCIePq0hElXS2ME5w_QhpL0w/videos)|
 ---|---|---|---|---|
 
+### 工具网站
+
+[独立站卖家导航](https://www.dlz123.cn/)|
+---|
+
+
+
 # 视频
 
 # 目录
