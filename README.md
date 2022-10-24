@@ -15,8 +15,8 @@
 
 ### 工具网站
 
-[独立站卖家导航](https://www.dlz123.cn/)|
----|
+[独立站卖家导航](https://www.dlz123.cn/)|[168大卖家](https://168dmj.com/shopify-zhuti-tuijian)|
+---|---|
 
 
 
