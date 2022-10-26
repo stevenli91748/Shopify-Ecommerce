@@ -54,6 +54,7 @@
   * [细数50款一直以来市面上最常用的Shopify插件 2020 | Shopify营销类插件 购物车挽回插件 POD插件](https://www.youtube.com/watch?v=aCOFrFqFCPc)
   * 2.1 装修店铺
     * [Themeforest 上主题购买及安装教程](https://www.waimaob2c.com/themeforest) 
+    * [Ella主题](http://preview.themeforest.net/item/ella-responsive-shopify-template/full_screen_preview/9691007?_ga=2.144687795.748618393.1666759517-1381158030.1664660232&_gac=1.113511797.1666661626.CjwKCAjw79iaBhAJEiwAPYwoCH16vhHigSIHCfnrmkFdB3SiE-4RQa027N5ZzRBbu3YHPupUdvEhphoC_hQQAvD_BwE)
   * 2.2 收付款方法
     * [美国stripe从零注册验证教程，如何申请美国EIN？如果无限开信用卡？如何充值账户？](https://www.youtube.com/watch?v=TQKIjscaKuI)
 * 3 引流步骤
