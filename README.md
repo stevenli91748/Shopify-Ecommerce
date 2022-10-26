@@ -72,6 +72,7 @@
   * 视频剪辑
     * [BandsoffAds---专为Dropshiping付费视频剪辑 ](https://bandsoffads.com/?gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177eaqeGOJnXr0Dl768celERSymG496BQoa6n0cZg9wF-YVMboVZO_IaAv0eEALw_wcB)
   * 客服
+    * [Shopify免费工具]()
     * AI人工客服
       * [Chatbot](https://www.chatbot.com/)  
       * [Chatfuel----用在instagram 或 facebook上](https://chatfuel.com/)
