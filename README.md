@@ -15,8 +15,8 @@
 
 ### 工具网站
 
-[独立站卖家导航](https://www.dlz123.cn/)|[168大卖家](https://168dmj.com/shopify-zhuti-tuijian)|
----|---|
+[独立站卖家导航](https://www.dlz123.cn/)|[168大卖家](https://168dmj.com/shopify-zhuti-tuijian)|[【网络创业2022】15个创业工具让你事半功倍！低预算也可以开启开挂模式！](https://www.youtube.com/watch?v=vTx0Qw_KOEg)|
+---|---|---|
 
 
 
