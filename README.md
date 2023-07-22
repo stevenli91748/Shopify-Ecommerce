@@ -15,8 +15,11 @@
 
 ### 工具网站
 
-[独立站卖家导航](https://www.dlz123.cn/)|[168大卖家](https://168dmj.com/shopify-zhuti-tuijian)|[【网络创业2022】15个创业工具让你事半功倍！低预算也可以开启开挂模式！](https://www.youtube.com/watch?v=vTx0Qw_KOEg)|
+[独立站卖家导航](https://www.dlz123.cn/)|[168大卖家---跨境电商工具网](https://168dmj.com/shopify-zhuti-tuijian)|[【网络创业2022】15个创业工具让你事半功倍！低预算也可以开启开挂模式！](https://www.youtube.com/watch?v=vTx0Qw_KOEg)|
 ---|---|---|
+
+
+
 
 
 
@@ -87,6 +90,6 @@
 * [独立站蓝海选品策略（Shopify该如何选品）](https://zhuanlan.zhihu.com/p/512968451)
 * [Themes for shopify](https://themeforest.net/search/aaraa)
 * [揭秘月入3万的虾皮卖家，每天的工作流程！](https://www.youtube.com/watch?v=ACnsCHp8DrY)
-
+* []()
 ### 图片
 * [适合各平台的通用尺寸](https://www.shopify.com/zh/tools/image-resizer)
