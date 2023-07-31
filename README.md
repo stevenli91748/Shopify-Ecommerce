@@ -91,5 +91,6 @@
 * [Themes for shopify](https://themeforest.net/search/aaraa)
 * [揭秘月入3万的虾皮卖家，每天的工作流程！](https://www.youtube.com/watch?v=ACnsCHp8DrY)
 * [独立站Dropshipping模式的一件代发网站汇总](https://www.amz123.com/t/5hiJj1cH)
+* [对比超1,700个产品：亚马逊或eBay等大平台的折扣价比不过小平台](https://www.amz123.com/t/nVA9dqwb)
 ### 图片
 * [适合各平台的通用尺寸](https://www.shopify.com/zh/tools/image-resizer)
