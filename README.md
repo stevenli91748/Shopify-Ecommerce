@@ -18,6 +18,11 @@
 [独立站卖家导航](https://www.dlz123.cn/)|[168大卖家---跨境电商工具网](https://168dmj.com/shopify-zhuti-tuijian)|[【网络创业2022】15个创业工具让你事半功倍！低预算也可以开启开挂模式！](https://www.youtube.com/watch?v=vTx0Qw_KOEg)|
 ---|---|---|
 
+[独立站选品神器](https://www.waimaomike.com/product-research-niche-scraper.html)|
+---|
+
+[在线做动态GIF网站----免费](https://ezgif.com/maker)|
+---|
 
 
 
