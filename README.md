@@ -21,8 +21,8 @@
 [独立站选品神器](https://www.waimaomike.com/product-research-niche-scraper.html)|
 ---|
 
-[在线做动态GIF网站----免费](https://ezgif.com/maker)|
----|
+[在线做动态GIF网站----免费](https://ezgif.com/maker)|[物流追踪功能APP]()|
+---|----|
 
 
 
