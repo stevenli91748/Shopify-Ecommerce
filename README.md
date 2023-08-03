@@ -4,6 +4,10 @@
 [进击的电商](https://www.youtube.com/channel/UCFsap4oyI_kTM9DkZ3gkxeQ)|[【Shopify 電商教學】我是如何在七個月內做到70w萬美金銷售額的 ](https://www.youtube.com/watch?v=bObwG2WidR8)|[大力Dali](https://www.youtube.com/channel/UCi_9a7QLXHUEcyrxP2Uva0A)|[Star Yo电商运营教程](https://www.youtube.com/c/StarYo)|
 ---|---|---|---|
 
+ [外贸MIKE ----SHOPIFY 教程](https://www.waimaomike.com/design-upload-logo.html)|
+ ---|
+
+
 [UcanB2C---专注Shopify实战](https://www.ucanb2c.com/shopify/)|[揭秘月入3万的虾皮卖家，每天的工作流程！](https://www.youtube.com/watch?v=ACnsCHp8DrY)|
 ---|---|
 
