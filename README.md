@@ -35,20 +35,21 @@
 *  剪影
 * [在线做动态GIF网站----免费](https://ezgif.com/maker)
 
-
 #### 物流追踪功能
 * [物流追踪功能---如何为独立站Shopify或WordPress添加包裹追踪功能和页面（无需插件）](https://www.youtube.com/watch?v=VU0YcUlwA3I&list=PLDZpH6VGcTs-Dcv9DX6su_J47Ip4dKPHs&index=12)|
-
 
 #### 网页测速
 * [网页测速](https://tools.pingdom.com/)
 
+#### 货源
+  * [peeksta----dropshipping store resources](https://peeksta.com/)
+  * [The 10 Best Dropshipping Suppliers for 2023](https://www.wix.com/blog/ecommerce/2020/12/dropshipping-suppliers?utm_source=google&utm_medium=cpc&utm_campaign=8713455576^103790327218&experiment_id=^^440280798714^^_DSA&gclid=Cj0KCQjwrMKmBhCJARIsAHuEAPT6WMECb7qAlN_yzqQDlzqmbDUoBH4pQXKGHUPoo4PZ995MsB253QcaAhw3EALw_wcB)
 
 
 # 视频
 * [Shopify教程2022|0基础新手50分钟上手Shopify！史上超全手把手教学！](https://www.bilibili.com/video/BV1eL411V7hs/?vd_source=be3ac4894f8bf7883ae92030f6f7be46)
-
 * [Shopify Tutorial for Beginners 2023 | The Complete Guide](https://www.youtube.com/watch?v=maTYay-PbjQ)
+
 
 # 目录
 
