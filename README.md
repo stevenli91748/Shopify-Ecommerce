@@ -33,9 +33,12 @@
 #### 视频剪
 
 *  剪影
+* [在线做动态GIF网站----免费](https://ezgif.com/maker)
 
-[在线做动态GIF网站----免费](https://ezgif.com/maker)|[物流追踪功能APP]()|
----|----|
+
+#### 物流追踪功能
+* [物流追踪功能---如何为独立站Shopify或WordPress添加包裹追踪功能和页面（无需插件）](https://www.youtube.com/watch?v=VU0YcUlwA3I&list=PLDZpH6VGcTs-Dcv9DX6su_J47Ip4dKPHs&index=12)|
+
 
 #### 网页测速
 * [网页测速](https://tools.pingdom.com/)
