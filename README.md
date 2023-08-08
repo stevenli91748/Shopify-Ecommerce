@@ -75,7 +75,9 @@
   * [国外卖家都卖什么爆款？差异化选品流程大公开！---如何通过产品的faceboo广告，寻找出热卖款](https://www.youtube.com/watch?v=vOKNjn3-IQc)
   * 1.1 货源
     * [除了1688，这些货源网站的 拿货价格更低！值得收藏](https://www.youtube.com/watch?v=tJV6T5VKqfE)
-    * []()
+    * [peeksta----dropshipping store resources](https://peeksta.com/)
+    * [The 10 Best Dropshipping Suppliers for 2023](https://www.wix.com/blog/ecommerce/2020/12/dropshipping-suppliers?utm_source=google&utm_medium=cpc&utm_campaign=8713455576^103790327218&experiment_id=^^440280798714^^_DSA&gclid=Cj0KCQjwrMKmBhCJARIsAHuEAPT6WMECb7qAlN_yzqQDlzqmbDUoBH4pQXKGHUPoo4PZ995MsB253QcaAhw3EALw_wcB)
+
 * 2 建站步骤---模仿本行业的龙头网站，再加上自己的特色上去
   * [最新Shopify网站建站 | 如何用Shopify制作大牌电商网站](https://www.youtube.com/watch?v=eTpJSDj2pAs)
   * [超详尽版如何搭建一个Shopify跨境独立站，2022年最新Shopify建站中文教程，零基础新手教学](https://www.youtube.com/watch?v=wtQNNbe1z-g&t=870s)
@@ -84,6 +86,7 @@
   * 2.1 装修店铺
     * [Themeforest 上主题购买及安装教程](https://www.waimaob2c.com/themeforest) 
     * [Ella主题](http://preview.themeforest.net/item/ella-responsive-shopify-template/full_screen_preview/9691007?_ga=2.144687795.748618393.1666759517-1381158030.1664660232&_gac=1.113511797.1666661626.CjwKCAjw79iaBhAJEiwAPYwoCH16vhHigSIHCfnrmkFdB3SiE-4RQa027N5ZzRBbu3YHPupUdvEhphoC_hQQAvD_BwE)
+      * [Page Customization & Templates Shopify](https://www.youtube.com/watch?v=fvEMPZZCs5M) 
   * 2.2 收付款方法
     * [美国stripe从零注册验证教程，如何申请美国EIN？如果无限开信用卡？如何充值账户？](https://www.youtube.com/watch?v=TQKIjscaKuI)
 * 3 引流步骤
