@@ -44,7 +44,7 @@
 #### 货源
   * [peeksta----dropshipping store resources](https://peeksta.com/)
   * [The 10 Best Dropshipping Suppliers for 2023](https://www.wix.com/blog/ecommerce/2020/12/dropshipping-suppliers?utm_source=google&utm_medium=cpc&utm_campaign=8713455576^103790327218&experiment_id=^^440280798714^^_DSA&gclid=Cj0KCQjwrMKmBhCJARIsAHuEAPT6WMECb7qAlN_yzqQDlzqmbDUoBH4pQXKGHUPoo4PZ995MsB253QcaAhw3EALw_wcB)
-
+   * [The 9 Best Dropshipping Websites for Selling Online (2023)](https://www.shopify.com/blog/dropshipping-websites)
 
 # 视频
 * [Shopify教程2022|0基础新手50分钟上手Shopify！史上超全手把手教学！](https://www.bilibili.com/video/BV1eL411V7hs/?vd_source=be3ac4894f8bf7883ae92030f6f7be46)
