@@ -30,7 +30,7 @@
 * []()
 #### 广告工具
 * [video ad maker]()
-* [广告查询工具](https://bigspy.com/pricing)
+* [广告追踪查询工具](https://bigspy.com/pricing)
 #### 视频剪
 
 *  剪影
