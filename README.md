@@ -26,10 +26,11 @@
 
 * [独立站选品神器](https://www.waimaomike.com/product-research-niche-scraper.html)
 * [Shopify独立站选品神器](https://www.waimaomike.com/product-research-niche-scraper.html)
-
+* [选品神器平台](https://ecomhunt.com)
+* []()
 #### 广告工具
 * [video ad maker]()
-
+* [广告查询工具](https://bigspy.com/pricing)
 #### 视频剪
 
 *  剪影
