@@ -87,7 +87,8 @@
   * 2.1 装修店铺
     * [Themeforest 上主题购买及安装教程](https://www.waimaob2c.com/themeforest) 
     * [Ella主题](http://preview.themeforest.net/item/ella-responsive-shopify-template/full_screen_preview/9691007?_ga=2.144687795.748618393.1666759517-1381158030.1664660232&_gac=1.113511797.1666661626.CjwKCAjw79iaBhAJEiwAPYwoCH16vhHigSIHCfnrmkFdB3SiE-4RQa027N5ZzRBbu3YHPupUdvEhphoC_hQQAvD_BwE)
-      * [Page Customization & Templates Shopify](https://www.youtube.com/watch?v=fvEMPZZCs5M) 
+      * [Page Customization & Templates Shopify](https://www.youtube.com/watch?v=fvEMPZZCs5M)
+      * [Shopify轮播图制作](https://www.gaoding.com/contents/-page-1?q=%E7%94%B5%E5%95%86%E8%BD%AE%E6%92%AD%E5%9B%BE&from=guess&fid=5714202-5714203_2-a1000000945~~)
   * 2.2 收付款方法
     * [美国stripe从零注册验证教程，如何申请美国EIN？如果无限开信用卡？如何充值账户？](https://www.youtube.com/watch?v=TQKIjscaKuI)
 * 3 引流步骤
