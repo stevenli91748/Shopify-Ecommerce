@@ -31,6 +31,10 @@
 #### 广告工具
 * [video ad maker]()
 * [广告追踪查询工具](https://bigspy.com/pricing)
+
+#### 装修工具
+* [轮播图工具](https://www.gaoding.com/editor/design?id=25182185011699754&mode=user)
+
 #### 视频剪
 
 *  剪影
