@@ -27,7 +27,7 @@
 * [独立站选品神器](https://www.waimaomike.com/product-research-niche-scraper.html)
 * [Shopify独立站选品神器](https://www.waimaomike.com/product-research-niche-scraper.html)
 * [选品神器平台](https://ecomhunt.com)
-* []()
+* [独立站选品思路，Shopify选品策略经验分享，如何发现爆款产品](https://www.youtube.com/watch?v=k4nNU7h71c8)
 #### 广告工具
 * [video ad maker]()
 * [广告追踪查询工具](https://bigspy.com/pricing)
@@ -79,6 +79,11 @@
   * [最简单的Shopify独立站选品方法 Shopify Dropshipping选品 Aliexpress速卖通选品 2020](https://www.youtube.com/watch?v=be3c-85LQyw&list=PLUC7G8JqSGKy8l0_fzkDgoj4NVimHgOrP&index=4)
   * [国外卖家都卖什么爆款？差异化选品流程大公开！---如何通过产品的faceboo广告，寻找出热卖款](https://www.youtube.com/watch?v=vOKNjn3-IQc)
   * [独立站选品思路，Shopify选品策略经验分享，如何发现爆款产品](https://www.youtube.com/watch?v=k4nNU7h71c8)
+    * 选品的第一种方法---在广告平台上查找相应的广告作参考
+      * TikTok Creative Center (TikTok广告库)
+      * ad library  (facebook广告库)
+    * 选品的第二种方法
+      * 头部同行在卖什么产品 
   * 1.1 货源
     * [除了1688，这些货源网站的 拿货价格更低！值得收藏](https://www.youtube.com/watch?v=tJV6T5VKqfE)
     * [peeksta----dropshipping store resources](https://peeksta.com/)
