@@ -68,7 +68,7 @@
 * [什么是独立站SHOPIFY DROPSHIP，该如何选择产品？](https://www.youtube.com/watch?v=2COBH3dcPaU)
 
 
-* 1 选商品步骤
+* **1 选商品步骤---产品调研**
   * 选商品的三个关键点---只有满足以下三点的产品才能花钱测试
     * **第一点：产品是否已经被测试过了---就是是否已经有别的用户已经做过广告（instagram或 facebook），并有好的浏览量**
     * **第二点：产品的目标用户是否广泛---避免小众产品**  
@@ -89,7 +89,7 @@
     * [peeksta----dropshipping store resources](https://peeksta.com/)
     * [The 10 Best Dropshipping Suppliers for 2023](https://www.wix.com/blog/ecommerce/2020/12/dropshipping-suppliers?utm_source=google&utm_medium=cpc&utm_campaign=8713455576^103790327218&experiment_id=^^440280798714^^_DSA&gclid=Cj0KCQjwrMKmBhCJARIsAHuEAPT6WMECb7qAlN_yzqQDlzqmbDUoBH4pQXKGHUPoo4PZ995MsB253QcaAhw3EALw_wcB)
 
-* 2 建站步骤---模仿本行业的龙头网站，再加上自己的特色上去
+* **2 建站步骤---模仿本行业的龙头网站，再加上自己的特色上去**
   * [最新Shopify网站建站 | 如何用Shopify制作大牌电商网站](https://www.youtube.com/watch?v=eTpJSDj2pAs)
   * [超详尽版如何搭建一个Shopify跨境独立站，2022年最新Shopify建站中文教程，零基础新手教学](https://www.youtube.com/watch?v=wtQNNbe1z-g&t=870s)
   * [Shopify 必备免费插件 - 2020，完美增强你的店铺，助你销量增长。梧桐小讲堂](https://www.youtube.com/watch?v=q11OQROgguo&list=PLTjPjHa6Nol1LHP4OakcaE3QlN5PnSG08&index=5)
@@ -101,21 +101,21 @@
       * [Shopify轮播图制作](https://www.gaoding.com/contents/-page-1?q=%E7%94%B5%E5%95%86%E8%BD%AE%E6%92%AD%E5%9B%BE&from=guess&fid=5714202-5714203_2-a1000000945~~)
   * 2.2 收付款方法
     * [美国stripe从零注册验证教程，如何申请美国EIN？如果无限开信用卡？如何充值账户？](https://www.youtube.com/watch?v=TQKIjscaKuI)
-* 3 引流步骤
+
+* **3 引流步骤---产品推广**
   * Instagram广告---有一个好的产品视频广告和网站，比别的付费引流更有效
   * Facebook广告 ---有一个好的产品视频广告和网站，比别的付费引流更有效
     * [FaceBook 推广教程 -《Facebook 完全手册》](https://www.ucanb2c.com/facebook/) 
   * Google广告
     * [Google ADS 教程 – 《Google 完全手册》](https://www.ucanb2c.com/google/) 
-* 4 客服步骤
-  * [carro (oblero插件的替代) ](https://www.getcarro.com/)
-  * 中转商(当你每天的订单量到几十到100单时) 
-* 5 tools
-  * [Shopify免费工具](https://www.shopify.com/zh/tools) 
+
+* **4 分析---流量数据**
   * 流量分析  
     * [similarweb---Traffic Analysis](https://www.similarweb.com/corp/lps/similarweb-traffic-analysis/?utm_medium=ppc&utm_source=adwords&utm_campaign=brand_na_na_na_na_brand_usaca_Oct_21&utm_id=289647072&utm_content=397948175168&utm_term=similarweb&utm_network=g&utm_group=23062293792&utm_placement=&utm_matchtype=e&utm_adposition=&utm_id=289647072&utm_content=397948175168&utm_term=similarweb&utm_network=g&utm_group=23062293792&utm_placement=&utm_matchtype=e&utm_adposition=&affiliate_id=similarweb&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177jQTsgwTYx0Y9XQK2AQDNdSC0tCORvGltTVLH2hDF0roaLwEbPDnYaAvo2EALw_wcB)
-  * 视频剪辑
-    * [BandsoffAds---专为Dropshiping付费视频剪辑 ](https://bandsoffads.com/?gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177eaqeGOJnXr0Dl768celERSymG496BQoa6n0cZg9wF-YVMboVZO_IaAv0eEALw_wcB)
+
+* **5 产品配送与售后客服步骤**
+  * [carro (oblero插件的替代) ](https://www.getcarro.com/)
+  * 中转商(当你每天的订单量到几十到100单时)
   * 客服
     * AI人工客服
       * [Chatbot](https://www.chatbot.com/)  
@@ -123,6 +123,11 @@
       * [Tidio---可在Shopify or Wordpress上使用](https://www.tidio.com/)
       * [Zoho---可在Shopify or Wordpress上使用](https://www.zoho.com/)
       * [Intercom---可在Shopify or Wordpress上使用](https://www.intercom.com/drlp/business-growth-sb?utm_source=google&utm_medium=sem&utm_campaign=16397789193&utm_term=intercom&utm_ad_collection=130765731341&_bt=598537376628&_bg=130765731341&utm_ad=598537376628&offer=sb-growth-trial&utm_campaign_name=go_b_pm_acq_core_demo_kw_pros_core-e_alls_alld_namer_us_en&utm_ad_collection_name=&utm_ad_name=sb-growth-trial_rsa_23q2&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1175wLzsJMm5457pDzbGlDi07WPj95ROm1_Q_aRN1Soww3ohiV1e-eRkaAu1-EALw_wcB&gclsrc=aw.ds)
+
+* **6 tools**
+  * [Shopify免费工具](https://www.shopify.com/zh/tools) 
+  * 视频剪辑
+    * [BandsoffAds---专为Dropshiping付费视频剪辑 ](https://bandsoffads.com/?gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177eaqeGOJnXr0Dl768celERSymG496BQoa6n0cZg9wF-YVMboVZO_IaAv0eEALw_wcB)
 
 # 参考
 * [Oberlo下架，一件代发哪一家比较好？](https://zhuanlan.zhihu.com/p/44393056)
