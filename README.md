@@ -84,7 +84,9 @@
       * ad library  (facebook广告库)
     * 选品的第二种方法
       * 头部同行在卖什么产品---myip.ms
-      * ppspy---可以查找到同行的热销产品 
+      * ppspy---可以查找到同行的热销产品
+    * 选品的第三种方法 ---查看其它的电商平台在卖什么
+      *  
   * 1.1 货源
     * [除了1688，这些货源网站的 拿货价格更低！值得收藏](https://www.youtube.com/watch?v=tJV6T5VKqfE)
     * [peeksta----dropshipping store resources](https://peeksta.com/)
