@@ -35,6 +35,7 @@
 #### 装修工具
 * [轮播图工具](https://www.gaoding.com/editor/design?id=25182185011699754&mode=user)
 * [free image editor](https://pixlr.com/x/)
+* [canva---- free online image editor](https://www.canva.com/create/logos/)
 #### 视频剪
 
 *  剪影
