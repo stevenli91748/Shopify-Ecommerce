@@ -103,9 +103,10 @@
     * [Ella主题](http://preview.themeforest.net/item/ella-responsive-shopify-template/full_screen_preview/9691007?_ga=2.144687795.748618393.1666759517-1381158030.1664660232&_gac=1.113511797.1666661626.CjwKCAjw79iaBhAJEiwAPYwoCH16vhHigSIHCfnrmkFdB3SiE-4RQa027N5ZzRBbu3YHPupUdvEhphoC_hQQAvD_BwE)
       * [Page Customization & Templates Shopify](https://www.youtube.com/watch?v=fvEMPZZCs5M)
       * [Shopify轮播图制作](https://www.gaoding.com/contents/-page-1?q=%E7%94%B5%E5%95%86%E8%BD%AE%E6%92%AD%E5%9B%BE&from=guess&fid=5714202-5714203_2-a1000000945~~)
+    * [Shopify Metaobject 教程]() 
   * 2.2 收付款方法
     * [美国stripe从零注册验证教程，如何申请美国EIN？如果无限开信用卡？如何充值账户？](https://www.youtube.com/watch?v=TQKIjscaKuI)
-
+      
 * **3 引流步骤---产品推广**
   * Instagram广告---有一个好的产品视频广告和网站，比别的付费引流更有效
   * Facebook广告 ---有一个好的产品视频广告和网站，比别的付费引流更有效
@@ -113,7 +114,8 @@
     * [FaceBook电商教程](https://www.youtube.com/@smartemy/videos)
   * Google广告
     * [Google ADS 教程 – 《Google 完全手册》](https://www.ucanb2c.com/google/) 
-
+  * Youtube广告
+    * [youtube频道运营](https://www.youtube.com/@greysonzhang/videos) 
 * **4 分析---流量数据**
   * 流量分析  
     * [similarweb---Traffic Analysis](https://www.similarweb.com/corp/lps/similarweb-traffic-analysis/?utm_medium=ppc&utm_source=adwords&utm_campaign=brand_na_na_na_na_brand_usaca_Oct_21&utm_id=289647072&utm_content=397948175168&utm_term=similarweb&utm_network=g&utm_group=23062293792&utm_placement=&utm_matchtype=e&utm_adposition=&utm_id=289647072&utm_content=397948175168&utm_term=similarweb&utm_network=g&utm_group=23062293792&utm_placement=&utm_matchtype=e&utm_adposition=&affiliate_id=similarweb&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177jQTsgwTYx0Y9XQK2AQDNdSC0tCORvGltTVLH2hDF0roaLwEbPDnYaAvo2EALw_wcB)
