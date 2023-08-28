@@ -115,7 +115,9 @@
   * Google广告
     * [Google ADS 教程 – 《Google 完全手册》](https://www.ucanb2c.com/google/) 
   * Youtube广告
-    * [youtube频道运营](https://www.youtube.com/@greysonzhang/videos) 
+    * [youtube频道运营](https://www.youtube.com/@greysonzhang/videos)
+  * Twitter
+    * [推特收益1043美元，推特的钱太好赚了！只需动动松手复制粘贴，目前属于红利期](https://www.youtube.com/watch?v=omAO60JXeGQ)  
 * **4 分析---流量数据**
   * 流量分析  
     * [similarweb---Traffic Analysis](https://www.similarweb.com/corp/lps/similarweb-traffic-analysis/?utm_medium=ppc&utm_source=adwords&utm_campaign=brand_na_na_na_na_brand_usaca_Oct_21&utm_id=289647072&utm_content=397948175168&utm_term=similarweb&utm_network=g&utm_group=23062293792&utm_placement=&utm_matchtype=e&utm_adposition=&utm_id=289647072&utm_content=397948175168&utm_term=similarweb&utm_network=g&utm_group=23062293792&utm_placement=&utm_matchtype=e&utm_adposition=&affiliate_id=similarweb&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177jQTsgwTYx0Y9XQK2AQDNdSC0tCORvGltTVLH2hDF0roaLwEbPDnYaAvo2EALw_wcB)
