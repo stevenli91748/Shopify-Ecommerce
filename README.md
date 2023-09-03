@@ -55,7 +55,7 @@
 # 视频
 * [Shopify教程2022|0基础新手50分钟上手Shopify！史上超全手把手教学！](https://www.bilibili.com/video/BV1eL411V7hs/?vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 * [Shopify Tutorial for Beginners 2023 | The Complete Guide](https://www.youtube.com/watch?v=maTYay-PbjQ)
-
+* [Shopify Dropshipping Tutorial for Beginners 2023 - How To Create A Profitable Shopify Store](https://www.youtube.com/watch?v=QDGgroYxgks)
 
 # 目录
 
