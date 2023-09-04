@@ -139,6 +139,7 @@
     * [BandsoffAds---专为Dropshiping付费视频剪辑 ](https://bandsoffads.com/?gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177eaqeGOJnXr0Dl768celERSymG496BQoa6n0cZg9wF-YVMboVZO_IaAv0eEALw_wcB)
 
 # 参考
+* []()
 * [Oberlo下架，一件代发哪一家比较好？](https://zhuanlan.zhihu.com/p/44393056)
 * [独立站网站，你们都是通过什么渠道引流的呢？](https://www.zhihu.com/question/472920185/answer/2574433771)
 * [一款独立站的秘密软件，居然可以准确抓取竞争对手的销售数据！](https://zhuanlan.zhihu.com/p/523216301)
