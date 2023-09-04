@@ -28,7 +28,7 @@
 
 #### 选品工具
 
-* [独立站选品神器](https://www.waimaomike.com/product-research-niche-scraper.html)
+* [shopify独立站选品 | 如何找到1000美金/天的金矿产品在Shopify独立站售卖](https://www.youtube.com/watch?v=CBbSs_HrAYw)
 * [Shopify独立站选品神器](https://www.waimaomike.com/product-research-niche-scraper.html)
 * [选品神器平台](https://ecomhunt.com)
 * [独立站选品思路，Shopify选品策略经验分享，如何发现爆款产品](https://www.youtube.com/watch?v=k4nNU7h71c8)
