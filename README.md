@@ -40,6 +40,7 @@
 * [轮播图工具](https://www.gaoding.com/editor/design?id=25182185011699754&mode=user)
 * [free image editor](https://pixlr.com/x/)
 * [canva---- free online image editor](https://www.canva.com/create/logos/)
+  * [Canva新手教學，用免費工具Canva做電商Banner](https://www.youtube.com/watch?v=A9czJzYSBLM) 
 #### 视频剪
 
 *  剪影
