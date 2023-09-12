@@ -41,6 +41,7 @@
 * [free image editor](https://pixlr.com/x/)
 * [canva---- free online image editor](https://www.canva.com/create/logos/)
   * [Canva新手教學，用免費工具Canva做電商Banner](https://www.youtube.com/watch?v=A9czJzYSBLM)
+  * [【Canva教學】不會剪接軟體沒關係 用免費線上平台製作高質感影片](https://www.youtube.com/watch?v=hZ6SWEZ2PSQ)
 * [免费去图片背景的网站](remove.bg)
 #### 视频剪
 
