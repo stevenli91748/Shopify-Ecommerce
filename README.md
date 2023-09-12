@@ -50,6 +50,9 @@
 #### 物流追踪功能
 * [物流追踪功能---如何为独立站Shopify或WordPress添加包裹追踪功能和页面（无需插件）](https://www.youtube.com/watch?v=VU0YcUlwA3I&list=PLDZpH6VGcTs-Dcv9DX6su_J47Ip4dKPHs&index=12)|
 
+#### SEO
+* [我是如何使用chatGPT写SEO文章？五个步骤轻松掌握SEO写作](https://www.youtube.com/watch?v=41N26PSk9vU)
+
 #### 网页测速
 * [网页测速](https://tools.pingdom.com/)
 
