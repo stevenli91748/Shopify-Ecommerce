@@ -44,6 +44,7 @@
   * [【Canva教學】不會剪接軟體沒關係 用免費線上平台製作高質感影片](https://www.youtube.com/watch?v=hZ6SWEZ2PSQ)
 * [免费去图片背景的网站](remove.bg)
 * [freepik.com免费图片](https://www.freepik.com/photos/bag-banner)
+* [图像编辑和设计工具中的第一名](https://pixlr.com/cn/)
 #### 视频剪
 
 *  剪影
