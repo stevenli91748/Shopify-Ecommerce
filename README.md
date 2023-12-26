@@ -37,6 +37,9 @@
 * [广告追踪查询工具](https://bigspy.com/pricing)
 
 #### 装修工具
+* [在线拼图工具网站](https://www.fotor.com/)
+* [免费的图片合成网站](https://photokit.com/editor/?lang=zh)
+* [5款修图片、拼图片、合成图片的神器](https://zhuanlan.zhihu.com/p/332490728)
 * [轮播图工具](https://www.gaoding.com/editor/design?id=25182185011699754&mode=user)
 * [free image editor](https://pixlr.com/x/)
 * [canva---- free online image editor](https://www.canva.com/create/logos/)
