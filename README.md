@@ -37,6 +37,7 @@
 * [广告追踪查询工具](https://bigspy.com/pricing)
 
 #### 装修工具
+* [消除背景](https://www.remove.bg/zh)
 * [做好图](http://www.zuohaotu.com/image-merge.aspx)
 * [站长素材](https://sc.chinaz.com/)
 * [在线拼图工具网站](https://www.fotor.com/)
