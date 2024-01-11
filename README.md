@@ -38,6 +38,7 @@
 
 #### 装修工具
 * [精品网站推荐！这8个都是宝藏，资源完全免费，非常好用](https://www.youtube.com/watch?v=xV_b07VKT_c)
+* [免费音乐，可用于背景音乐](https://audiohub.com/)
 * [消除背景](https://www.remove.bg/zh)
 * [做好图](http://www.zuohaotu.com/image-merge.aspx)
 * [站长素材](https://sc.chinaz.com/)
