@@ -37,6 +37,8 @@
 * [广告追踪查询工具](https://bigspy.com/pricing)
 
 #### 装修工具
+# logo
+  * [Canva結合Photopea製做出3D立體LOGO](https://www.youtube.com/watch?v=5L2n3v7fxT8)
 * [精品网站推荐！这8个都是宝藏，资源完全免费，非常好用](https://www.youtube.com/watch?v=xV_b07VKT_c)
 * [免费文档图片视频转换网站](https://tinywow.com/)
 * [免费音乐，可用于背景音乐](https://audiohub.com/)
