@@ -134,6 +134,8 @@
     * [美国stripe从零注册验证教程，如何申请美国EIN？如果无限开信用卡？如何充值账户？](https://www.youtube.com/watch?v=TQKIjscaKuI)
       
 * **3 引流步骤---产品推广**
+  * [如何用chat gpt创作爆款文案](https://www.youtube.com/watch?v=Nm3cYRNEQ7Q)
+  * [用AI写小红书，如此丝滑写出爆款引流【有完整指令】](https://www.youtube.com/watch?v=VHIwf-RkFy0)
   * Instagram广告---有一个好的产品视频广告和网站，比别的付费引流更有效
   * Facebook广告 ---有一个好的产品视频广告和网站，比别的付费引流更有效
     * [Facebook 广告教学 2023](https://www.youtube.com/watch?v=RyNpLKQngvM) 
