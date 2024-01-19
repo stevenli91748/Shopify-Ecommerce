@@ -26,6 +26,10 @@
 [独立站卖家导航](https://www.dlz123.cn/)|[168大卖家---跨境电商工具网](https://168dmj.com/shopify-zhuti-tuijian)|[【网络创业2022】15个创业工具让你事半功倍！低预算也可以开启开挂模式！](https://www.youtube.com/watch?v=vTx0Qw_KOEg)|
 ---|---|---|
 
+[媒小三  各种AI工具网站](https://www.meixiaosan.com/tosound.html)|
+---|
+
+
 #### 选品工具
 
 * [shopify独立站选品 | 如何找到1000美金/天的金矿产品在Shopify独立站售卖](https://www.youtube.com/watch?v=CBbSs_HrAYw)
